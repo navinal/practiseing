@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="325e464a97a5311018af38271153af94" label="family" max_length="40" name="x_1128517_navi_family" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="1" max_length="40" name="shivali" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="2" max_length="40" name="shivlinga" type="string"/>
+    </element>
+</database>
